@@ -7,6 +7,6 @@ MS Access Project; Database created to assist local nonprofit in tracking and ma
 
 ![image](https://github.com/ChristinanJames/MS-Access-Inventory-Database/assets/160377293/9e48adcd-9467-4235-86da-89e52ac63d30)
 
-![image](https://github.com/ChristinanJames/MS-Access-Inventory-Database/assets/160377293/35154cd6-2cd7-402c-8514-f19aef0cfda3)
+![image](https://github.com/ChristinanJames/MS-Access-Inventory-Database/assets/160377293/64208fed-cba4-480f-808f-26033e1b7077)
 
 ![image](https://github.com/ChristinanJames/MS-Access-Inventory-Database/assets/160377293/5eda6ce2-69de-4bce-a19b-25bebf0992b6)
